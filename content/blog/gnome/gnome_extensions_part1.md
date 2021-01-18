@@ -16,3 +16,4 @@ One of the most handy desktop extensions. Ever wanted to paste the content you c
 - Search-in feature
 - private mode
 - fully customisable
+- custom shortcuts
