@@ -7,4 +7,4 @@ draft: false
 
 ## User themes
 
-[Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
+<span style="font-decoration:none;color:black">[Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)<span>
