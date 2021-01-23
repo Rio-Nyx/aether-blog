@@ -1,5 +1,5 @@
 module.exports = {
-  title: `Aetherio`,
+  title: `Aether`,
   description: `Blog posted about ...`,
   author: `[Rio Nyx]`,
   introduction: `I explain with words and code. Just a humble place where I can share what I know`,
@@ -26,5 +26,5 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: 'G-7BKK0MHME8', // Add your google analytics tranking ID
+  ga: 'UA-186951042-1', // Add your google analytics tranking ID
 }
