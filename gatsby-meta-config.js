@@ -14,8 +14,8 @@ module.exports = {
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
-    disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'Rio-Nyx/aether-comment', // Your repository for archive comment
+    disqusShortName: 'aether-1', // Your disqus-short-name. check disqus.com.
+     utterances: '', // Your repository for archive comment- > Rio-Nyx/aether-comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
